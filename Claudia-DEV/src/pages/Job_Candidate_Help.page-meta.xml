@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>34.0</apiVersion>
+    <availableInTouch>false</availableInTouch>
+    <confirmationTokenRequired>false</confirmationTokenRequired>
+    <description>&lt;h1&gt;Help for the Candidate Object&lt;/h1&gt;
+	    &lt;p&gt;The Candidate object is for identifying and tracking individual candidates for job positions.&lt;/p&gt;
+	    &lt;p&gt;Sort candidates by Name, Location, Last Modified, and Prospect Rating.&lt;/p&gt;</description>
+    <label>Job Candidate Help</label>
+</ApexPage>
